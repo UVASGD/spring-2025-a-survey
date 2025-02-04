@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e05f40d002a5d054c92b950b44781268
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _udonSharpBackingUdonBehaviour: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  - flameParticle: {fileID: 1874925097258749147, guid: 178286fea9717204eb449a8020f99ec2,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
