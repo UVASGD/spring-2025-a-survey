@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: ContactDemoResetObjects
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 662c132425616da4299d19ae88bd0b52,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 5dad96b44f9e3c04ea2512d36b281e5f,
     type: 2}
   udonAssembly: 
   assemblyError: 

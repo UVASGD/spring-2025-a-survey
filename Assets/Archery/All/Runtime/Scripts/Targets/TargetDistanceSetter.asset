@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: TargetDistanceSetter
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: b17ef479ea945c04c9da3dabbd56e3a8,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 45e92f773f08165438b42da14e2ce5b3,
     type: 2}
   udonAssembly: 
   assemblyError: 

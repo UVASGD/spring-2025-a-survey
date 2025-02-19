@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: RepositionFlamethrowers
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 0a7e30bcb9bd3a94e95fe27ca43d7f98,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 6a6d5d21e169cea48bdc7b88b2c808c5,
     type: 2}
   udonAssembly: 
   assemblyError: 
