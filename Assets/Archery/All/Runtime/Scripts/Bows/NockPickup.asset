@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: NockPickup
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 3fa1b2d9dce57d14e9802aa804509428,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: d7ccc55c676f4da4ebfca4527b866cdd,
     type: 2}
   udonAssembly: 
   assemblyError: 

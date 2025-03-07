@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: BoneFollower
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 5e20464b4e2eec54c9c368341be40d5e,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 7786b89aed887fb4597bedf90266bbe4,
     type: 2}
   udonAssembly: 
   assemblyError: 

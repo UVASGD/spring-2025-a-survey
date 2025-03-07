@@ -26,7 +26,7 @@ public class FlamethrowerMovement : UdonSharpBehaviour
         // RequestSerialization();
         if (!isActive)
         {
-            SetWalkAndStrafeSpeed(5f, 5f);
+            //SetWalkAndStrafeSpeed(5f, 5f);
             return;
         }
 
@@ -35,7 +35,7 @@ public class FlamethrowerMovement : UdonSharpBehaviour
         //Debug.Log($"ammo: {ammo}");
 
         PropelPlayer();
-        SetWalkAndStrafeSpeed(walkSpeed, strafeSpeed);
+        //SetWalkAndStrafeSpeed(walkSpeed, strafeSpeed);
 
     }
 
@@ -44,11 +44,11 @@ public class FlamethrowerMovement : UdonSharpBehaviour
         playerLocal.SetVelocity(Vector3.ClampMagnitude(playerLocal.GetVelocity() + -transform.forward, maxSpeed));
     }
 
-    public void SetWalkAndStrafeSpeed(float walk, float strafe)
-    {
-        playerLocal.SetWalkSpeed(walk);
-        playerLocal.SetStrafeSpeed(strafe);
-    }
+    //public void SetWalkAndStrafeSpeed(float walk, float strafe)
+    //{
+    //    playerLocal.SetWalkSpeed(walk);
+    //    playerLocal.SetStrafeSpeed(strafe);
+    //}
 
     public override void OnPickupUseDown()
     {

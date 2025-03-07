@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: Flamethrower
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 86d0500ca407a454d9e07136c4b71e22,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 3b0f0db4c2205f647880422f7d22c807,
     type: 2}
   udonAssembly: 
   assemblyError: 
