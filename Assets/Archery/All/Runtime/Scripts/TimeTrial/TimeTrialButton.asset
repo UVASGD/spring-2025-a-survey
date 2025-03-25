@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: TimeTrialButton
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: d55309eb2a841de4689531a344c15f1f,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 45a94685e07006f48b6beec32c6b2ad1,
     type: 2}
   udonAssembly: 
   assemblyError: 

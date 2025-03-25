@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: ReflectionProbeRefresher
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: a42095b2cf974bb43aff2ec2e37c6ffb,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 30df89b17a3bc434384f3bd1ad6cb7ab,
     type: 2}
   udonAssembly: 
   assemblyError: 

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: Colliders Udon C# Program Asset
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: ee35ddfb3db3644428a3a3028fae156d,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: c2895c7eddcfeba488bd1bca2d639153,
     type: 2}
   udonAssembly: 
   assemblyError: 

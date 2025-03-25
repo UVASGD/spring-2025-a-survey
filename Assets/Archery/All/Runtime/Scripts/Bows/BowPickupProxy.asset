@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: BowPickupProxy
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 9ac365bc4c9000243a52b5c04ef0fea0,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 1b93f5cb0e510464ab4411175dd019e9,
     type: 2}
   udonAssembly: 
   assemblyError: 

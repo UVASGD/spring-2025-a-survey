@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: InteractToToggleAnimation
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: f8e89cd370c555f4f953298ad9d87419,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 1b364e14c9747834497abbec1f7786c6,
     type: 2}
   udonAssembly: 
   assemblyError: 

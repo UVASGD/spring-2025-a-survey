@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: PlayerAddVelocity
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 0c8ab6604a4bde24497322a4d443907c,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 3301835c8b884f340aeee1f20eb9813c,
     type: 2}
   udonAssembly: 
   assemblyError: 

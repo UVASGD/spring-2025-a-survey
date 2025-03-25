@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: ContactAudioSource
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 823e1d5fa892d5b4fbf2a4b2119a5b83,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 1513f021b4d8124408d91ebb14cb7720,
     type: 2}
   udonAssembly: 
   assemblyError: 

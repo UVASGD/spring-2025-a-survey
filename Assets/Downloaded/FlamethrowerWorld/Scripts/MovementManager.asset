@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: MovementManager
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 444624cb4f80e4b4389904fc93a800b8,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 6a9a5721a6446be4ab6ad53b0039599d,
     type: 2}
   udonAssembly: 
   assemblyError: 

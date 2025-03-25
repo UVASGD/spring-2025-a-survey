@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: ContactFootstepOverride
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 7e0a71b2417190c469169ae58e004e0f,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 3c4964d11c15a574f8b8b5f8c1255be5,
     type: 2}
   udonAssembly: 
   assemblyError: 

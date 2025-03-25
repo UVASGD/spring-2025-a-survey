@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: CKWObjectSync
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: a29f36ac9dee3a342a44bfdc7d6a8b74,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 2f6ccc2a2b94c3c4d9a39220b12d8dcb,
     type: 2}
   udonAssembly: 
   assemblyError: 

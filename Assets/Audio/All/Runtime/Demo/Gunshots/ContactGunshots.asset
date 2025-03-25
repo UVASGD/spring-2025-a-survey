@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: ContactGunshots
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 19afca8dfd1bfcb4880d3bb27fe92171,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 6749482c955b1f145a663e21b20c856d,
     type: 2}
   udonAssembly: 
   assemblyError: 

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: PickupRespawnButton
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 1b14dfc6fd995b04483f29ae5fbadb41,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: c27e1777824a4b146a640f75eca600fd,
     type: 2}
   udonAssembly: 
   assemblyError: 

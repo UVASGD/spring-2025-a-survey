@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: VRCWorldSettingsCKW
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: a07f7e3489c79bb4ba42d9a034cf6de8,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 338b18e5ac4c6bf419bed55504bcddfa,
     type: 2}
   udonAssembly: 
   assemblyError: 

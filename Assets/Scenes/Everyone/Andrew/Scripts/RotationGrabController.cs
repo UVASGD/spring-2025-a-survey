@@ -12,6 +12,7 @@ namespace iffnsStuff.iffnsVRCStuff.InteractiveControllers
         [SerializeField] float MaxAngleDeg = 45;
         [SerializeField] bool Symetric = true;
         [SerializeField] float SnapAngleDegOffsetFromZero = 0;
+        int ii;
 
         /*
         Sync behavior:
@@ -40,6 +41,18 @@ namespace iffnsStuff.iffnsVRCStuff.InteractiveControllers
 
         void Update()
         {
+            // Add null checks
+            if (LinkedPickupWithXYOffset == null)
+            {
+                Debug.LogError("LinkedPickupWithXYOffset is not assigned!");
+                return;
+            }
+
+            if (transform.parent == null)
+            {
+                Debug.LogError("Parent transform is missing!");
+                return;
+            }
             //Detect pickup by local player and assign ownership
             if (!pickupIsHeld && LinkedPickupWithXYOffset.IsHeld)
             {

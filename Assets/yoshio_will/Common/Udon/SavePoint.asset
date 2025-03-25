@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: SavePoint
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 3df8497eea01d4f4483b0dc261b02e14,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 3f15783ae8247d749b71895be45fa93f,
     type: 2}
   udonAssembly: 
   assemblyError: 

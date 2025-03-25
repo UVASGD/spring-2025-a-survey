@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: FixedUpdateRateMeasurement
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 2e3e288cb6bd9874c9a31a4ae32ff235,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: f0239f30d775d734bb2ff9df98e68026,
     type: 2}
   udonAssembly: 
   assemblyError: 
